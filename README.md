@@ -1,30 +1,29 @@
-### Hi there 👋, I'm Mohamed ElSawy 
+<h1 align="center">Hi 👋, I'm Mohamed Emad</h1>
+<h3 align="center">A passionate Python & Automation Engineer building clean, efficient backend systems.</h3>
 
-🚀 **Python Developer & Automation Engineer**  
-I build high-performance Python scripts, web scrapers, data pipelines, and intelligent automation tools that eliminate repetitive tasks and streamline workflows.
+<p align="center">
+  <img src="https://komarev.com/ghprofile/nocount/?username=moh21042002-tech&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/moh21042002-tech?label=Followers&style=flat-square&color=blue" alt="Followers" />
+</p>
 
 ---
 
 ### 🛠️ Tech Stack & Skills:
-* **Languages:** Python (Advanced)
-* **Web Scraping & Automation:** BeautifulSoup, Selenium, Requests, Data Extraction Pipelines
-* **Backend & APIs:** FastAPI, RESTful Services
-* **Data Processing:** Pandas, NumPy
-* **Tools & Version Control:** Git, GitHub, Linux, Postman
-
----
-
-### 💡 Core Services & What I Do:
-* **Web Scraping & Data Engineering:** Extracting structured data from complex sources and exporting clean datasets (Excel, JSON, SQL).
-* **Workflow Automation:** Building end-to-end Python scripts to automate boring, repetitive tasks and file management.
-* **Backend & API Development:** Crafting fast, lightweight APIs using FastAPI.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,git,github,linux,vscode" alt="Tech Stack" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moh21042002-tech
-&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moh21042002-tech&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh21042002-tech&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-📫 **Let's build something exceptional together!**
+---
+
+### 🚀 Featured Projects:
+* **[Advanced Web Scraper](https://github.com/moh21042002-tech/advanced-web-scraper)** - Automated data extraction utility with CSV export.
+* **[Python File Organizer](https://github.com/moh21042002-tech/python-file-organizer)** - Automates local file sorting based on extensions.
+* **[Weather API Tool](https://github.com/moh21042002-tech/python-weather-api-tool)** - RESTful API integration script parsing JSON payloads.
